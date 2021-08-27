@@ -3,6 +3,7 @@
     <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="requirements" type="AUTO_DETECTED" />
+      <mapping pattern="unittests" type="AUTO_DETECTED" />
       <mapping pattern="test_user_auth" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
